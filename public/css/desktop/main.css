@@ -1,0 +1,43 @@
+main{
+    padding-top: 100px;
+}
+.introduction{
+    width: 100%;
+    height: 400px;
+    background-image: linear-gradient(to bottom, #fafafa,#ebebeb );
+    display: flex;
+    justify-content: center;
+    .introduction__dec{
+        width: 350px;
+        height: 350px;
+        margin-top: 20px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        .introduction__dec__1{
+            width: 330px;
+            font-family: iransans;
+            font-size: 30px;
+            font-weight: 400;
+            color: #ff0000;
+        }
+        .introduction__dec__2{
+            width: 330px;
+            font-family: iransans;
+            font-size: 20px;
+            font-weight: 400;
+            color: #002021;
+            margin-top: 15px;
+        }
+    }
+    .introduction__img{
+        width: 330px;
+        height: 330px;
+        background: url(./../../pictures/قرمز.png) no-repeat;
+        background-size: cover;
+        margin-top: 20px;
+    }
+}
