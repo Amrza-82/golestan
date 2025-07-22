@@ -24,6 +24,11 @@
       height: inherit;
       list-style: none;
       display: flex;
+      span{
+        margin-top: 5px;
+        font-size: 30px;
+        color: #787a7c;
+      }
 
       .head__nav__li {
         height: 46px;
