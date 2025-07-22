@@ -92,7 +92,7 @@ main {
     }
   }
 }
-.product{
+.product__1{
   width: 100%;
   height: 400px;
   margin-top: 150px;
@@ -161,7 +161,167 @@ main {
         font-size: 15px;
         color: #7c7d7e;
         text-decoration: none;
+        &:hover{
+          background-color: #ed1c24;
+          color: #fafafa;
+        }
       }
     }
   }
 }
+.product__2{
+  width: 100%;
+  height: 400px;
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .product__img{
+    width: 234px;
+    height: 214px;
+    background: url(./../../pictures/سبز.png) center;
+    background-size: cover;
+  }
+  .product__shop{
+    width: 446px;
+    .product__shop1{
+      padding: 10px;
+      box-sizing: border-box;
+      border-bottom: 1px solid black;
+      span{
+      font-family: iransans;
+      font-size: 22px;
+      font-weight: 400;
+      color: #ff0000;
+      }
+    }
+    .product__shop2{
+      display: flex;
+      align-items: center;
+      padding: 5px 0px;
+      border-bottom: 1px solid black;
+      span{
+        width: 50%;
+        font-family: iransans;
+        font-size: 16px;
+        font-weight: 700;
+      }
+      div{
+        width: 50%;
+        display: flex;
+        flex-direction: row-reverse;
+        img{
+          margin-right: 5px;
+        }
+        
+        
+      }
+    }
+    .product__shop3{
+      margin: 16px 0;
+      font-size: 16px;
+      color: #94979a;
+      font-family: iransans;
+      
+    }
+    .product__shop4{
+      display: flex;
+      flex-direction: row;
+      a{
+        width: 130px;
+        height: 43px;
+        line-height: 43px;
+        text-align: center;
+        outline: #afb3b6 solid 1px;
+        border-radius: 10px;
+        font-family: iransans;
+        font-size: 15px;
+        color: #7c7d7e;
+        text-decoration: none;
+        &:hover{
+          background-color: #ed1c24;
+          color: #fafafa;
+        }
+      }
+    }
+  }
+}
+
+.product__3{
+  width: 100%;
+  height: 400px;
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .product__img{
+    width: 234px;
+    height: 214px;
+    background: url(./../../pictures/نارنجی.png) center;
+    background-size: cover;
+  }
+  .product__shop{
+    width: 446px;
+    .product__shop1{
+      padding: 10px;
+      box-sizing: border-box;
+      border-bottom: 1px solid black;
+      span{
+      font-family: iransans;
+      font-size: 22px;
+      font-weight: 400;
+      color: #ff0000;
+      }
+    }
+    .product__shop2{
+      display: flex;
+      align-items: center;
+      padding: 5px 0px;
+      border-bottom: 1px solid black;
+      span{
+        width: 50%;
+        font-family: iransans;
+        font-size: 16px;
+        font-weight: 700;
+      }
+      div{
+        width: 50%;
+        display: flex;
+        flex-direction: row-reverse;
+        img{
+          margin-right: 5px;
+        }
+        
+        
+      }
+    }
+    .product__shop3{
+      margin: 16px 0;
+      font-size: 16px;
+      color: #94979a;
+      font-family: iransans;
+      
+    }
+    .product__shop4{
+      display: flex;
+      flex-direction: row;
+      a{
+        width: 130px;
+        height: 43px;
+        line-height: 43px;
+        text-align: center;
+        outline: #afb3b6 solid 1px;
+        border-radius: 10px;
+        font-family: iransans;
+        font-size: 15px;
+        color: #7c7d7e;
+        text-decoration: none;
+        &:hover{
+          background-color: #ed1c24;
+          color: #fafafa;
+        }
+      }
+    }
+  }
+}
+
