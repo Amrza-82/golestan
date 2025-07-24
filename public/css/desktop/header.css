@@ -18,7 +18,7 @@
   nav {
     width: 872px;
     height: 65.5px;
-    margin-top: 35px;
+    margin-top: 25px;
     margin-right: 342px;
     .head__nav {
       width: inherit;
@@ -29,6 +29,7 @@
         margin-top: 5px;
         font-size: 30px;
         color: #787a7c;
+        display: block;
       }
 
       .head__nav__li {
