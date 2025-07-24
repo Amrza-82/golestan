@@ -3,6 +3,7 @@
   height: 100px;
   background-color: #262626;
   position: fixed;
+  z-index: 1;
   .head__logo {
     a {
       img {

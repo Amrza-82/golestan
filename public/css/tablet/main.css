@@ -1,5 +1,5 @@
 main {
-  padding-top: 100px;
+  padding-top: 170px;
 }
 .introduction {
   width: 100%;
@@ -95,7 +95,7 @@ main {
 .product__1{
   width: 100%;
   height: 400px;
-  margin-top: 150px;
+  margin-top: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -172,7 +172,7 @@ main {
 .product__2{
   width: 100%;
   height: 400px;
-  margin-top: 150px;
+  margin-top: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -250,7 +250,7 @@ main {
 .product__3{
   width: 100%;
   height: 400px;
-  margin-top: 150px;
+  margin-top: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
